@@ -53,7 +53,7 @@
       >
       <circle
         cx="12" cy="12" r="12"
-        fill="#d44"
+        fill="#6da741"
         stroke="none"
         />
       <line
@@ -70,7 +70,7 @@
       >
       <circle
         cx="12" cy="12" r="12"
-        fill="#822"
+        fill="#6da741"
         stroke="none"
         />
       <line
@@ -91,7 +91,7 @@
       >
       <circle
         cx="12" cy="12" r="12"
-        fill="#f00"
+        fill="#6da741"
         stroke="none"
         />
       <line
@@ -108,7 +108,7 @@
       >
       <circle
         cx="12" cy="12" r="12"
-        fill="#f00"
+        fill="#6da741"
         stroke="none"
         />
       <line

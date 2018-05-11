@@ -4,7 +4,7 @@ TitleVerticalAlignment=Center
 Animation=50
 ActiveTextColor=254,254,254,255
 InactiveTextColor=80,116,50,255
-Shadow=true
+Shadow=false
 
 [Layout]
 BorderLeft=4
@@ -16,14 +16,14 @@ TitleEdgeBottom=4
 TitleEdgeLeft=4
 TitleEdgeRight=4
 TitleEdgeTopMaximized=0
-TitleEdgeBottomMaximized=0
+TitleEdgeBottomMaximized=4
 TitleEdgeLeftMaximized=0
 TitleEdgeRightMaximized=0
 TitleBorderLeft=0
 TitleBorderRight=0
-TitleHeight=10
-ButtonWidth=15
-ButtonHeight=15
+TitleHeight=16
+ButtonWidth=16
+ButtonHeight=16
 ButtonSpacing=2
 ButtonMarginTop=0
 ExplicitButtonSpacer=10
